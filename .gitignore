@@ -21,3 +21,4 @@ logs/
 /.plugins/
 /.opencode-skills/
 .playwright-mcp/
+.idea/
