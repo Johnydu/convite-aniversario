@@ -8,7 +8,7 @@ const latitude = env.VITE_PARTY_LATITUDE || "-23.550520";
 const longitude = env.VITE_PARTY_LONGITUDE || "-46.633308";
 
 export const party = {
-  childName: env.VITE_CHILD_NAME || "Caleb",
+  childName: env.VITE_CHILD_NAME || "Theo",
   age: Number(env.VITE_CHILD_AGE || 2),
   /** Data no formato AAAA-MM-DD. */
   date: env.VITE_PARTY_DATE || "2026-10-24",

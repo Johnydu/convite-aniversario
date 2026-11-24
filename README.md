@@ -1,6 +1,6 @@
-# 🎉 Convite de Aniversário Interativo — Caleb
+# 🎉 Convite de Aniversário Interativo
 
-> Convite digital interativo desenvolvido como projeto de front-end, inspirado no universo de jogos clássicos e criado para celebrar os 2 anos do Caleb.
+> Convite digital interativo desenvolvido como projeto de front-end, inspirado no universo de jogos clássicos. Nome, idade, data, horário e local da festa são configuráveis.
 
 ## 📌 Sobre o projeto
 
@@ -20,7 +20,7 @@ A aplicação foi desenvolvida com foco em **experiência do usuário, interativ
 
 ## 🖥️ Demonstração
 
-🔗 **Demo:** [johnydu.github.io/convite-aniversario-caleb](https://johnydu.github.io/convite-aniversario-caleb/)
+🔗 **Demo:** [johnydu.github.io/convite-aniversario](https://johnydu.github.io/convite-aniversario/)
 
 ![Tela inicial do convite: cena em pixel art com bandeirinhas, balões, uma criança de chapéu de festa e um bolo com o número 2, sob o título "Caleb faz 2 anos!"](docs/preview.webp)
 
@@ -75,7 +75,7 @@ A interface foi desenvolvida para proporcionar uma boa experiência em diferente
 ## 📂 Estrutura do projeto
 
 ```text
-convite-aniversario-caleb/
+convite-aniversario/
 ├── .github/workflows/pages.yml   # build e publicação no GitHub Pages
 ├── docs/preview.webp             # captura usada no README
 ├── public/favicon.svg
@@ -98,8 +98,8 @@ convite-aniversario-caleb/
 O projeto usa **pnpm** (versão definida em `.mise.toml`).
 
 ```bash
-git clone https://github.com/Johnydu/convite-aniversario-caleb.git
-cd convite-aniversario-caleb
+git clone https://github.com/Johnydu/convite-aniversario.git
+cd convite-aniversario
 pnpm install
 pnpm dev
 ```

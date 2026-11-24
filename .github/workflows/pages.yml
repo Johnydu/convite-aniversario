@@ -15,8 +15,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  # Caminho base do build: o site fica em https://johnydu.github.io/convite-aniversario-caleb/
-  FIGMA_PUBLIC_URL: /convite-aniversario-caleb
+  # Caminho base do build: o site fica em https://johnydu.github.io/convite-aniversario/
+  FIGMA_PUBLIC_URL: /convite-aniversario
 
 jobs:
   build:
