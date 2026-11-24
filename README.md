@@ -22,7 +22,7 @@ A aplicação foi desenvolvida com foco em **experiência do usuário, interativ
 
 🔗 **Demo:** [johnydu.github.io/convite-aniversario](https://johnydu.github.io/convite-aniversario/)
 
-![Tela inicial do convite: cena em pixel art com bandeirinhas, balões, uma criança de chapéu de festa e um bolo com o número 2, sob o título "Caleb faz 2 anos!"](docs/preview.webp)
+![Tela inicial do convite: cena em pixel art com bandeirinhas, balões, uma criança de chapéu de festa e um bolo com o número 2, sob o título "Theo faz 2 anos!"](docs/preview.webp)
 
 > A versão publicada usa dados fictícios (telefone, grupo e localização).
 
